@@ -55,18 +55,23 @@ click through.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranjalrastogi25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pranjal's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalrastogi25&theme=tokyonight&hide_border=true" alt="Pranjal's streak stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pranjalrastogi25&show_icons=true&count_private=true&hide_border=true&border_radius=12&bg_color=0D1117&title_color=56CCF2&icon_color=2F80ED&text_color=C9D1D9&ring_color=2F80ED" alt="Pranjal's GitHub stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalrastogi25&hide_border=true&border_radius=12&background=0D1117&stroke=2F80ED&ring=2F80ED&fire=56CCF2&currStreakLabel=56CCF2&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" alt="Pranjal's streak stats" height="180"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalrastogi25&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalrastogi25&layout=donut-vertical&hide_border=true&border_radius=12&bg_color=0D1117&title_color=56CCF2&text_color=C9D1D9" alt="Top languages" height="220"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pranjalrastogi25&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" height="220"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjalrastogi25&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjalrastogi25&theme=react-dark&hide_border=true&bg_color=0D1117&color=56CCF2&line=2F80ED&point=FFFFFF&area=true&area_color=2F80ED" alt="Contribution graph" width="97%"/>
 </p>
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/pranjal_rastogi?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="60%"/>
+  <img src="https://leetcard.jacoblin.cool/pranjal_rastogi?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="65%"/>
 </p>
+
 
 ---
 
