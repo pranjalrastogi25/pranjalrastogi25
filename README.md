@@ -30,6 +30,15 @@ click through.
 - 💼 Preparing for campus placements — targeting SDE roles at product-based companies.
 - ⚡ Fun fact: most of what's below, I learned by breaking it first.
 
+### 📫 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranjal-rastogi-475b94287/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/pranjal_rastogi/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <!-- swap the # below for your email/portfolio if you'd like to add them -->
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
 ---
 
 ### 🛠️ Tech I've been working with
@@ -72,7 +81,6 @@ click through.
   <img src="https://leetcard.jacoblin.cool/pranjal_rastogi?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="65%"/>
 </p>
 
-
 ---
 
 ### 📌 Featured projects
@@ -106,18 +114,7 @@ for reconstruction.
   <img src="https://raw.githubusercontent.com/pranjalrastogi25/pranjalrastogi25/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 </p>
 
-> Needs a one-time GitHub Action set up in this repo to generate — ask if you want that workflow file too.
-
----
-
-### 📫 Connect with me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pranjal-rastogi-475b94287/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/pranjal_rastogi/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <!-- swap the # below for your email/portfolio if you'd like to add them -->
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+> Set up via the GitHub Action workflow (`snake.yml`) — see setup instructions from earlier.
 
 ---
 
